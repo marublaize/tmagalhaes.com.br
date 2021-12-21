@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![tmagalhaes.com.br](img/logo.png)
 
 You can use the [editor on GitHub](https://github.com/marublaize/tmagalhaes.com.br/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
